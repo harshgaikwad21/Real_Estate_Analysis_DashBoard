@@ -40,25 +40,6 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 |------|-------------|
 | **Real_Estate_analysis_DashBoard.pbit** | Power BI dashboard template for real estate analytics |
 
-🛠️ How to Use the Dashboard
-1. Download the Template
-
-Clone this repository or download the .pbit file directly:
-
-git clone https://github.com/yourusername/real-estate-analysis-dashboard.git
-
-2. Open in Power BI Desktop
-
-Launch Power BI Desktop → Open the .pbit file.
-
-3. Load Your Data
-
-The template will automatically prompt you to load your dataset (typically Excel/CSV).
-
-4. Explore the Dashboard
-
-Use interactive filters, charts, maps, and cards to analyze property performance and market trends.
-
 ## 📊 Insights Provided
 
 This dashboard gives a clear picture of:
