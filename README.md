@@ -2,7 +2,8 @@
 
 # 🏡 Real Estate Analysis Dashboard
 
-![Hr_analysis](https://www.build-review.com/wp-content/uploads/2021/07/Real-Estate-Investment.jpg)
+![OIP](https://github.com/user-attachments/assets/bcd1cc46-1227-45fd-935a-f486d941af2a)
+
 
 A comprehensive Power BI dashboard to analyze property trends, neighborhood insights, and market performance.
 
