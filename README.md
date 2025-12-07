@@ -7,6 +7,11 @@
 
 A comprehensive Power BI dashboard to analyze property trends, neighborhood insights, and market performance.
 
+## Tool Used :
+
+![WhatsApp Image 2025-11-26 at 00 59 09_02e20da0](https://github.com/user-attachments/assets/3c4e5125-0c32-4fa4-852e-aae7745ac7bd)
+
+
 ## 📘 Overview
 
 This repository contains a **Real Estate Analysis Dashboard** built using **Power BI**, designed to help users explore property-level and market-level insights with ease. The dashboard provides detailed visualizations on pricing, size, amenities, and neighborhood dynamics—ideal for analysts, real estate professionals, and investors who want to make data-driven decisions.
