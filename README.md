@@ -2,8 +2,7 @@
 
 # 🏡 Real Estate Analysis Dashboard
 
-![vecteezy_real-estate-market-analysis-home-prices-and-investment_69703657](https://pngtree.com/freebackground/real-estate-analytics-and-home-automation-overlay_16376916.html)
-
+![real_estate](https://www.vecteezy.com/photo/26398877-percentage-growth-bank-loan-interest-appraisal-of-property-value-investment-in-real-estate-houses-and-land-financial-planning-for-homes-and-residences-bank-interest-and-real-estate-business)
 
 A comprehensive Power BI dashboard to analyze property trends, neighborhood insights, and market performance.
 
