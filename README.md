@@ -44,6 +44,8 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 
 ## 📌 Key Insights – Property Overview Dashboard
 
+<img width="800" height="500" alt="Screenshot 2025-12-06 142749" src="https://github.com/user-attachments/assets/0db26478-55c6-42b5-b909-c092a0ffc801" />
+
 ### **Total Properties**
 - **10,000** listings are available across the selected cities.
 
@@ -66,9 +68,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 ### **Geographic Spread**
 - Map visuals indicate **strong clustering around major Texas cities**, highlighting key real estate hotspots.
 
-<img width="1249" height="699" alt="Screenshot 2025-12-06 142749" src="https://github.com/user-attachments/assets/0db26478-55c6-42b5-b909-c092a0ffc801" />
+
 
 ## 📌 Key Insights – Pricing & Valuation Dashboard
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 142818" src="https://github.com/user-attachments/assets/6ac70747-cf15-4111-a42a-6a0974ba8daf" />
 
 ### **Market Value**
 - The total market value stands at **5 billion**, indicating strong property valuation across all cities.
@@ -81,9 +85,12 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 
 ### **Price Trends Over Time**
 
-<img width="1249" height="702" alt="Screenshot 2025-12-06 142818" src="https://github.com/user-attachments/assets/6ac70747-cf15-4111-a42a-6a0974ba8daf" />
+
 
 ## 📌 Key Insights – Property Features & Comparison Dashboard
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143136" src="https://github.com/user-attachments/assets/f31e1b97-e644-4c79-9f1d-16ff5e54a75d" />
+
 
 ### **Area vs Price Range**
 - Properties show a **wide variation in size and price**, offering diverse options across all ranges.  
@@ -105,9 +112,12 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 ### **Parking Spaces**
 - Higher-priced and larger properties generally come with **more parking spaces**, indicating premium features.
 
-<img width="1241" height="697" alt="Screenshot 2025-12-06 143136" src="https://github.com/user-attachments/assets/f31e1b97-e644-4c79-9f1d-16ff5e54a75d" />
+
 
 ## 📌 Key Insights – Sales & Revenue Dashboard
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143211" src="https://github.com/user-attachments/assets/2fad6087-fde9-429e-a077-b8de7fb37c0c" />
+
 
 ### **Overall Performance**
 - **Total Sales Value:** 5 billion, indicating strong revenue generation.
@@ -134,9 +144,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 - Sales contributions vary by agent, with several top performers exceeding **14–19 million** in monthly sales.
 - The table confirms **consistent performance across the agent pool**.
 
-<img width="1244" height="696" alt="Screenshot 2025-12-06 143211" src="https://github.com/user-attachments/assets/2fad6087-fde9-429e-a077-b8de7fb37c0c" />
 
 ## 📌 Key Insights – Property Condition & Features Dashboard
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143250" src="https://github.com/user-attachments/assets/9e8caafc-a775-4b5a-8145-24bd86895a29" />
+
 
 ### **Property Type Distribution**
 - All property types — **Villa, Apartment, Duplex, House, and Condo** — are nearly evenly distributed.
@@ -163,9 +175,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
   - Wide variation in **bedrooms/bathrooms** across individual listings.
   - **Market value** and **listed price** scale proportionally with property size and bedroom count.
 
-<img width="1247" height="701" alt="Screenshot 2025-12-06 143250" src="https://github.com/user-attachments/assets/9e8caafc-a775-4b5a-8145-24bd86895a29" />
 
 ## 📌 Key Insights – Neighborhood Profile Overview Dashboard
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143509" src="https://github.com/user-attachments/assets/b70e3348-f81b-406e-abc9-73d8bf149164" />
+
 
 ### **Overall Neighborhood Metrics**
 - A total of **200 neighborhoods** are analyzed in the dataset.
@@ -186,9 +200,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 - Neighborhoods generally have **40–70 properties**, with occasional peaks touching around **80**.
 - The distribution shows **balanced development**, with no major outliers or highly dense zones.
 
-<img width="1247" height="700" alt="Screenshot 2025-12-06 143509" src="https://github.com/user-attachments/assets/b70e3348-f81b-406e-abc9-73d8bf149164" />
 
 ## 📌 Key Insights – Real Estate Owners Portfolio Analysis
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143509" src="https://github.com/user-attachments/assets/e9d1e2b2-de7a-4010-9328-e7528fddf7f9" />
+
 
 ### **🔹 Total Owners**
 - The portfolio consists of **500 owners** managing properties across three major cities.
@@ -225,9 +241,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 - **Peter** holds the most properties, with **2300+ units**.
 - **Linda** and **Mar**
 
-<img width="1247" height="700" alt="Screenshot 2025-12-06 143509" src="https://github.com/user-attachments/assets/e9d1e2b2-de7a-4010-9328-e7528fddf7f9" />
 
 ## 📌 Short Insights – Real Estate Office Insights Dashboard
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143624" src="https://github.com/user-attachments/assets/3c794a0b-4e5c-42ba-95f3-912919a73d8d" />
+
 
 - **Total Listing Portfolio Value:** Stands at **5 billion**, reflecting strong market representation across offices.  
 - **Total Agent Headcount:** **300 agents**, indicating a sizeable and well-distributed workforce.  
@@ -236,9 +254,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 - **New vs. Established Offices:** A healthy mix, with noticeable establishment peaks in the **1980s, 1990s, and 2020**, highlighting major growth phases.  
 - **Office Size by Agent Count:** Offices such as **Office 15, Office 28, and Office 6** have the highest agent headcounts, suggesting larger operational capacity and potentially higher market activity.  
 
-<img width="1245" height="699" alt="Screenshot 2025-12-06 143624" src="https://github.com/user-attachments/assets/3c794a0b-4e5c-42ba-95f3-912919a73d8d" />
 
 ## 📌 Short Insights – Agent Productivity & Sales Dashboard
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143654" src="https://github.com/user-attachments/assets/a087cfa8-0e73-4fb3-b972-0796fb54216c" />
+
 
 - **Total Active Listings:** Portfolio value stands at **5bn**, indicating a strong overall market presence.  
 - **Top Performing Agent:** **John Doe** leads sales volume with **1bn**, significantly ahead of others.  
@@ -247,9 +267,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 - **Office Performance:** **Office 15, Office 28, and Office 6** have the highest listing values, indicating major activity hubs.  
 - **Overall Trend:** Performance is concentrated among a few top agents and offices, while the rest contribute steadily to total growth.  
 
-<img width="1251" height="699" alt="Screenshot 2025-12-06 143654" src="https://github.com/user-attachments/assets/a087cfa8-0e73-4fb3-b972-0796fb54216c" />
 
 ## 📌 Short Insights – Property Market Performance Dashboard
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143730" src="https://github.com/user-attachments/assets/b96ae150-f541-46ca-a8b6-2a72b29b28dd" />
+
 
 - **Market Pricing:** Average listed price is **489.59K** and average market value is **492.83K**, showing strong price stability.  
 - **Inventory Size:** A total of **10K properties** are currently listed in the market.  
@@ -258,9 +280,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 - **Top Cities:** **Dallas, Houston, and Austin** show similarly strong average listed prices, making them key markets.  
 - **Listing Type Split:** **Sale listings dominate (50.4%)**, while **Lease (24.94%)** and **Rent (24.66%)** are almost equal.  
 
-<img width="1248" height="701" alt="Screenshot 2025-12-06 143730" src="https://github.com/user-attachments/assets/b96ae150-f541-46ca-a8b6-2a72b29b28dd" />
 
 ## 📌 Short Insights – Property Value Decomposition Analysis
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143756" src="https://github.com/user-attachments/assets/99b56e95-6508-41c4-abf1-22e5ae552bee" />
+
 
 - **Total Properties Analyzed:** 10,000, providing a strong data foundation.  
 - **Property Type Distribution:** Villas (2062) and Apartments (2033) lead, followed by Duplex (1984), House (1963), and Condo (1958) — a very balanced mix.  
@@ -269,9 +293,11 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 - **Listed Price Example:** A highlighted property shows a listed price of **~854,923**, much higher than its base market value, suggesting premium positioning.  
 - **Year Built Insight:** Some properties date back to **1905**, showing the presence of historical/legacy buildings in the dataset.  
 
-<img width="1247" height="695" alt="Screenshot 2025-12-06 143756" src="https://github.com/user-attachments/assets/99b56e95-6508-41c4-abf1-22e5ae552bee" />
 
 ## 📌 Short Insights – Real Estate Condition & Summary Overview
+
+<img width="800" height="500" alt="Screenshot 2025-12-06 143839" src="https://github.com/user-attachments/assets/541540bc-90a9-47ba-b3b6-74ee5ab9b040" />
+
 
 - **Total Properties Covered:** 10,000 records are included in both detailed and summary tables.  
 - **Historical Spread:** Some properties date back to **1905**, indicating a mix of legacy and modern buildings in the dataset.  
@@ -282,7 +308,6 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 - **City & Neighborhood View:** Example data highlights **Austin (Neighborhood 1)** with diverse property types like **Apartments, Condos, Duplexes, and Houses**.  
 - **Listing Value:** The portfolio shows a very high combined **listed price of ~4.9 billion**, suggesting strong overall market value.  
 
-<img width="1248" height="699" alt="Screenshot 2025-12-06 143839" src="https://github.com/user-attachments/assets/541540bc-90a9-47ba-b3b6-74ee5ab9b040" />
 
 
 ## 📊 Insights Provided
