@@ -203,7 +203,7 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 
 ## 📌 Key Insights – Real Estate Owners Portfolio Analysis
 
-<img width="800" height="500" alt="Screenshot 2025-12-06 143509" src="https://github.com/user-attachments/assets/e9d1e2b2-de7a-4010-9328-e7528fddf7f9" />
+<img width="800" height="500" alt="Screenshot 2025-12-06 143549" src="https://github.com/user-attachments/assets/7532ecbe-7816-4f10-8869-0d802003d06d" />
 
 
 ### **🔹 Total Owners**
