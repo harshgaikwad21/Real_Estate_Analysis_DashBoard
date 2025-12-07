@@ -358,6 +358,6 @@ This project is licensed under the **MIT License** — free to use and modify.
 For any questions or collaboration opportunities:
 
 **Your Name**  
-📧 your.email@example.com  
+📧 gaikwadharsh1211@gmail.com  
 
-🌐 GitHub: https://github.com/yourusername
+🌐 https://github.com/harshgaikwad21
