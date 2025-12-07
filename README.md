@@ -2,7 +2,7 @@
 
 # 🏡 Real Estate Analysis Dashboard
 
-![vecteezy_percentage-growth-bank-loan-interest-appraisal-of-property_26398877](https://github.com/user-attachments/assets/25c3f436-a94a-420d-b635-41a31f37b2ca)
+![vecteezy_real-estate-growth-powered-by-digital-mortgage-processing_71046781](https://github.com/user-attachments/assets/ee5d7ee9-9a3d-4283-94d2-9dcae860ce18)
 
 
 A comprehensive Power BI dashboard to analyze property trends, neighborhood insights, and market performance.
