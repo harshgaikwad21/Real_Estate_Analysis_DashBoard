@@ -2,7 +2,7 @@
 
 # 🏡 Real Estate Analysis Dashboard
 
-![OIP](https://github.com/user-attachments/assets/bcd1cc46-1227-45fd-935a-f486d941af2a)
+![OIP](https://media.istockphoto.com/id/2221624997/photo/business-growth-concept-with-graph-overlay-house-icons-and-professional-in-suit-analyzing.jpg?s=2048x2048&w=is&k=20&c=LIqJJKiiqU7waupfNZRhBi4swcC0X7eY2YgJ6Emhkq8=)
 
 
 A comprehensive Power BI dashboard to analyze property trends, neighborhood insights, and market performance.
