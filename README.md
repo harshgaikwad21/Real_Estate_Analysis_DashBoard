@@ -2,7 +2,7 @@
 
 # 🏡 Real Estate Analysis Dashboard
 
-![vecteezy_real-estate-market-analysis-home-prices-and-investment_69703657](https://github.com/user-attachments/assets/ecb68c21-a3d0-47d5-bbb8-ed58797fcbb8)
+![vecteezy_real-estate-market-analysis-home-prices-and-investment_69703657](https://pngtree.com/freebackground/real-estate-analytics-and-home-automation-overlay_16376916.html)
 
 
 A comprehensive Power BI dashboard to analyze property trends, neighborhood insights, and market performance.
