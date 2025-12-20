@@ -252,7 +252,7 @@ This repository contains a **Real Estate Analysis Dashboard** built using **Powe
 
 ## 📌 Short Insights – Real Estate Office Insights Dashboard
 
-<img width="800" height="500" alt="Screenshot 2025-12-06 143624" src="https://github.com/user-attachments/assets/3c794a0b-4e5c-42ba-95f3-912919a73d8d" />
+<img width="1328" height="740" alt="Screenshot 2025-12-20 220643" src="https://github.com/user-attachments/assets/f5521164-dcad-407d-bb39-533ca5337f11" />
 
 
 - **Total Listing Portfolio Value:** Stands at **5 billion**, reflecting strong market representation across offices.  
